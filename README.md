@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a public euromillions API.
+- 🔭 I’m currently working on building my personal website/blog.
 - 🌱 I’m currently learning and improving my GoLang knowledge.
 - 💻 I have been working with: GoLang, Python, Javascript (vanilla & nodeJs) and PHP.
 - 💬 Ask me about tech, books, stocks, travel and videogames.
